@@ -18,7 +18,7 @@ function Body() {
                         1
                     </span>
                 </div>
-                <div className=" w-9/12 bg-[#B03390] h-[3px]"></div>
+                <div className=" w-9/12 md:w-[450px] bg-[#B03390] h-[3px]"></div>
                 <div className="
                     w-[40px] h-[40px]
                     flex items-center justify-center
